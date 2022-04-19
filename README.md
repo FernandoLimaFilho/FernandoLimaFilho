@@ -1,7 +1,7 @@
 <h1>
   
 ```python
-print("Olá! Me chamo Fernando e sou apaixonado por dados")
+print("Hi! My name is Fernando and I love data.")
 ```
   
 </h1>
