@@ -1,4 +1,4 @@
-### Faaala jedi! Me chamo Fernando 😄
+### Faaala jedi! Me chamo Fernando e sou apaixonado por dados 😄
 
 ##
 
